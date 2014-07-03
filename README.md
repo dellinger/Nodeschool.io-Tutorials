@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dellinger/Learning_ios_development.svg)](https://travis-ci.org/dellinger/Learning_ios_development)
+[![Build Status](https://travis-ci.org/dellinger/Nodeschool.io-Tutorials.svg?branch=master)](https://travis-ci.org/dellinger/Nodeschool.io-Tutorials)
 Nodeschool.io-Tutorials
 =======================
 
