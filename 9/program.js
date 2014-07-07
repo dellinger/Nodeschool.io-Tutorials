@@ -4,8 +4,7 @@ var responses = [];
 var count = 0;
 
 for(var i = 0; i < process.argv.length - 2; i++) {
-	execute(i);
-	
+	execute(i);	
 }
 
 function execute(index) {
